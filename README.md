@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun02ds&label=Profile%20views&color=0e75b6&style=flat" alt="arun02ds" /> </p>
 
-- 🔭 I’m currently working on [sign-language-detection]([https://github.com/Arun02DS/sign-language.git](https://github.com/Arun02DS/Sign_lang_AWS.git))
+- 🔭 I’m currently working on [sign-language-detection](https://github.com/Arun02DS/Sign_lang_AWS.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arun02DS](https://github.com/Arun02DS)
 
